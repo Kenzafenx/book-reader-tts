@@ -1,0 +1,9 @@
+{
+  "name": "book-reader-tts",
+  "version": "1.0.0",
+  "description": "Frontend-only web app for reading and TTS of EPUB and PDF books",
+  "scripts": {
+    "start": "npx serve ."
+  },
+  "dependencies": {}
+}
